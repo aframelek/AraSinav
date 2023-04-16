@@ -1,7 +1,7 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "Konsolide Kamu Sektörü Gerçekleşmeleri"
 author: 
-  - İsim Soyisim[^1]
+  - Afranur Melek Çevik [^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
+[^1]: 21080561, [Github Repo](https://github.com/aframelek/arasinav)
 
 # Vize Hakkında Önemli Bilgiler
 
@@ -45,16 +45,16 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 \colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
 
 # Giriş
-Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** Yazım konusunda @aydinonat:2007'ye başvurabilirsiniz. 
+Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** 
 
 
 Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir (doğal olarak ilk bölüm başlığı hariç). Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+Konsolide kamu sektörü gerçekleşmeleri, bir ülkenin tüm kamu kesimine (merkezi yönetim, yerel yönetimler, sosyal güvenlik kurumları) ait bütçe ve mali verilerin bir araya getirilerek toplamda elde edilen sonuçları ifade eder. Konssolide kamu sektörü gerçekleşmeleri, genellikle kamu maliyesi ve ekonomi politikası alanında yapılan analizlerde, bütçe politikalarının etkilerini değerlendirmek için önemli bir veri kaynağı olarak kullanılır. Ben 2004-2012 yılları arasını ele alan tablomu tüik kamu finansmanı istatislikleri hazine maliye bakanlığından ([T.C Hazine ve Maliye Bakanlığı](https://www.hmb.gov.tr/kamu-finansmani-istatistikleri)) buldum. Çalışmamda bir ülkenin genel mali durumunu, bütçe dengesini, borçlanma ve finansman durumunu değerlendiriyorum.
 
 ## Literatür 
-Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
+Arastırmamda bulduğum makalelerimde ortak olarak ülkenin tüm kamu kesimine ait bütçe ve mali verilerin bir araya getirilmesinden bahsediliyor. [@ozdenkamu,] makalesinde öncelikli olarak borçlanma konusunu ele alıyor. Ülkenin borçlanma serüvenini tarihsel olarak ortaya koyuyor. Ülke ekonomisinin dengede olabilmesi için, ekonomik kalkınmanın sağlanıp sürdürülebilmesi için iç ve dış borçlanmanın dengesinden bahsediyor. Türkiye IMF ilişkisini ele alıyor. Ülkeler kaynaklar konusunda yetersiz kalınca iç ve dış borçlanmayla bu sorunu halletmeye çalışıyor. Bozulan dengeler tekrar düzeltilebir. bunun için yeniden borçlanmaya basvuruluyor. bu çalışmada kamu kesimi borçlanma gereği açısından Türkiye-IMF ilişkileri 2001 sonrası dönem itibari ile ele alınmakta.Bu makalemde de [@ccakir2020turkiye,] Türkiye de kamu kesimi açıkları finanmanının en çok başvurduğu yöntemin borçlanma olduğunu ve bunun dünya genelinde de aynı olduğunu anlatıyor.Çalışma Türkiye’nin 1990-2015 döneminde kamu finansman dengelerinin gelişimi ve borçlanma politikalarının kamu finansman dengelerine etkisi inceliyor. Ek olarak [@grossi2015pursuing,] ve [@almquist2013public,] yazılarda da kamu sektörünün mali ve ekonomik incelemelerinden bahsediliyor.
 
 
 **_Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir._**
@@ -62,4 +62,10 @@ Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tart
 \newpage
 # Kaynakça {#references}
 <div id="refs"></div>
+([Makale!](https://acikbilim.yok.gov.tr/handle/20.500.12812/584144))
+([Makale2!](https://dergipark.org.tr/en/pub/susead/article/629115))
+([Makale3!](https://www.sciencedirect.com/science/article/abs/pii/S1045235412001207))
+([Makale4!](https://www.tandfonline.com/doi/abs/10.1080/01900692.2015.1001239))
+([Veritablosu!](https://www.hmb.gov.tr/kamu-finansmani-istatistikleri))
+
 
